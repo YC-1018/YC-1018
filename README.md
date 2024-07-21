@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm YU CAO!
 
-<!--
-**yccao4/yccao4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm currently a student passionate about technology, coding, and learning new things. Here, you'll find a collection of my projects, experiments, and contributions to open-source. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am pursuing my studies in Master of IT at University of Melbourne.
+- 💻 I love working on projects related to web development, data management.
+- 🌟 I enjoy solving problems and making things work better.
+- 📚 Always eager to learn new technologies and improve my skills.
+
+## 🌱 What I'm Currently Learning
+
+- 📖 Deep diving into [specific technology or topic].
+- 🤖 Experimenting with [new tech or project].
+- 🌐 Building projects using [relevant tools or languages].
+
+## 🛠️ Skills
+
+- **Programming Languages:** [List languages]
+- **Web Development:** [HTML, CSS, JavaScript, React, etc.]
+- **Data Science:** [Python, R, Pandas, etc.]
+- **Tools & Technologies:** [Git, Docker, etc.]
+
+## 💬 Let's Collaborate!
+
+I'm always open to interesting projects and collaborations. Feel free to reach out if you have an idea, need help with a project, or just want to chat about tech!
+
+---
+
+Thanks for stopping by! 😊
