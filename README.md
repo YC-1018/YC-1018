@@ -5,22 +5,16 @@ Welcome to my GitHub profile! I'm currently a student passionate about technolog
 ## 🚀 About Me
 
 - 🎓 I am pursuing my studies in Master of IT at University of Melbourne.
+- 🎓 Completed a Bachelor's degree in Computing and Software Systems.
 - 💻 I love working on projects related to web development, data management.
 - 🌟 I enjoy solving problems and making things work better.
 - 📚 Always eager to learn new technologies and improve my skills.
 
-## 🌱 What I'm Currently Learning
+## 🛠️ Technical Skills
 
-- 📖 Deep diving into [specific technology or topic].
-- 🤖 Experimenting with [new tech or project].
-- 🌐 Building projects using [relevant tools or languages].
-
-## 🛠️ Skills
-
-- **Programming Languages:** [List languages]
-- **Web Development:** [HTML, CSS, JavaScript, React, etc.]
-- **Data Science:** [Python, R, Pandas, etc.]
-- **Tools & Technologies:** [Git, Docker, etc.]
+- **Web Development:** HTML, CSS, React.js, Node.js, JavaScript, MongoDB
+- **Programming Languages:** C, C#, Java, Python, R, Matlab, SQL
+- **Data Analysis:** Pandas
 
 ## 💬 Let's Collaborate!
 
